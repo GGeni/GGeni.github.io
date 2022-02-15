@@ -4116,7 +4116,7 @@ input, select, textarea {
 	}
 
 .image img#prof_pic {
-	width: auto;
+	width: 0;
 	margin-left:-20px;
 	height:100%;
 }
