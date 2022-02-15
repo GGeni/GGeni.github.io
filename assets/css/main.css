@@ -4114,3 +4114,9 @@ input, select, textarea {
 					}
 
 	}
+
+#prof_pic {
+	width: unset;
+	margin-left:-20px;
+	height:100%;
+}
